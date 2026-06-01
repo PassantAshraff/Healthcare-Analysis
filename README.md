@@ -1,6 +1,6 @@
 # 🏥 Healthcare Financial Performance Analysis — Power BI Dashboard
 
-A comprehensive Power BI analytics project analyzing the **financial performance** and **provider efficiency** of a healthcare center. The dashboard delivers actionable insights across 4 interactive pages covering financials, provider performance, and time-based trends.
+A comprehensive Power BI analytics project analyzing the **financial performance** and **provider efficiency** of a healthcare center. The dashboard delivers actionable insights covering financials, provider performance, and time-based trends.
 
 ---
 
